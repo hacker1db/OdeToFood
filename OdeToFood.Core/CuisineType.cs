@@ -8,6 +8,5 @@ namespace OdeToFood.Core
         Mexican,
         Italian,
         Indian
-
     }
 }
